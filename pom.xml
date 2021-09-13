@@ -12,6 +12,7 @@
     <modules>
         <module>entity</module>
         <module>usecase</module>
+        <module>adapter/controller</module>
     </modules>
 
     <properties>
@@ -19,8 +20,8 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <java.version>11</java.version>
         <lombok-version>1.18.20</lombok-version>
-        <maven.compiler.source>11</maven.compiler.source>
-        <maven.compiler.target>11</maven.compiler.target>
+        <maven.compiler.source>${java.version}</maven.compiler.source>
+        <maven.compiler.target>${java.version}</maven.compiler.target>
         <junit-jupiter.version>5.7.0</junit-jupiter.version>
         <junit-platform>1.7.2</junit-platform>
         <mockito.version>3.2.4</mockito.version>
