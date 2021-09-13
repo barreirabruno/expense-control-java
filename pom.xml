@@ -15,6 +15,7 @@
         <module>adapter/controller</module>
         <module>adapter/repository/in-memory-db</module>
         <module>applications/spring-boot</module>
+        <module>applications/command-line-app</module>
     </modules>
 
     <properties>

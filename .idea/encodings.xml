@@ -3,6 +3,8 @@
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/adapter/controller/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/adapter/repository/in-memory-db/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/applications/command-line-app/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/applications/spring-boot/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/entity/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/usecase/src/main/java" charset="UTF-8" />
   </component>
