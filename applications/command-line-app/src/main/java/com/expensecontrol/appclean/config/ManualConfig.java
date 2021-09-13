@@ -1,4 +1,4 @@
-package br.com.expensecontrol.appclean.config;
+package com.expensecontrol.appclean.config;
 
 import com.expensecontrol.appclean.CreateExpense;
 import com.expensecontrol.appclean.db.InMemoryExpenseRepository;

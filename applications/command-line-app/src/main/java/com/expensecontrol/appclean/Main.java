@@ -1,7 +1,6 @@
-package br.com.expensecontrol.appclean;
+package com.expensecontrol.appclean;
 
-import br.com.expensecontrol.appclean.config.ManualConfig;
-import com.expensecontrol.appclean.ExpenseController;
+import com.expensecontrol.appclean.config.ManualConfig;
 import com.expensecontrol.appclean.presenter.ExpensePresenter;
 
 public class Main {
