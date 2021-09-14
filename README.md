@@ -25,7 +25,7 @@ Use the following json for structure for requests:
  ```
 
 * **Command-line-app**
-* * **[DEMO](https://youtu.be/X9R92eKtsak)**
+* **[DEMO](https://youtu.be/X9R92eKtsak)**
 * Follow the steps:\
 ```mvn exec:java -Dexec.mainClass="com.expensecontrol.appclean.Main" -Dexec.args=<ARGS>```\
 * Example with args:\
